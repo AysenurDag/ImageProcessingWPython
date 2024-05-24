@@ -26,7 +26,7 @@ In this project, we perform the following tasks:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/AysenurDag/image-processing-opencv.git
+   git clone https://github.com/AysenurDag/ImageProcessingWPython.git
    
 2. Navigate to the project directory:
    cd directory-name
